@@ -1,4 +1,4 @@
-Program wczytuje plik excel z planem produkcyjnym do cięcia detali i zwraca listę potrzebnych materiałów oraz
+Program wczytuje plik excel z planem produkcyjnym do cięcia detali i zwraca listę potrzebnych materiałów 
 wraz z ich masą.
 
 Program kożystając z biblioteki openpyxl wczytuje kartę pliku exlcel podanego przez użytkownika następnie:
